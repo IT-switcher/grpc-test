@@ -17,17 +17,17 @@ To work with this project, you'll need Node.js and npm installed on your machine
 ## Installation
 
 1. Clone the repository:
-   \```bash
+   ```
    git clone [repository URL]
-   \```
+   ```
 2. Navigate to the project directory:
-   \```bash
+   ```
    cd [directory name]
-   \```
+   ```
 3. Install the required dependencies:
-   \```bash
+   ```
    npm install
-   \```
+   ```
 
 ## Running the Application
 
@@ -35,17 +35,17 @@ To work with this project, you'll need Node.js and npm installed on your machine
 
 Run the following command to start the server:
 
-\```bash
+```
 node server.js
-\```
+```
 
 ### Running the Client
 
 Open a new terminal and run the client:
 
-\```bash
+```
 node client.js
-\```
+```
 
 The client will send requests to the server, and you'll see the responses in the console.
 
